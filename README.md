@@ -17,7 +17,7 @@ The filtered dataset contains 10,242 messages related to 154 event classes.
 Please find the original dataset at https://github.com/THU-KEG/MAVEN-dataset
 
 ## Data format and usage
-Please refer to this document for data format and usage.
+Please refer to [this document](https://github.com/YuweiCao-UIC/KPGNN/blob/main/datasets/data_usage.md) for data format and usage.
 
 # Baselines
 For Word2vec[3], we use the [spaCy pre-trained vectors](https://spacy.io/models/en#en_core_web_lg).
